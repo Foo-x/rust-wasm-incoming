@@ -6,7 +6,7 @@
 2. Build
     1. `$ cd /path/to/rust-wasm-incoming`
     2. `$ docker build -t foo .`  
-    It will take some time and the size of the image will be about 26GB.
+    It takes some time and the size of the image is about 26GB.
 
 ## 2. Usage
 ### WebAssembly
